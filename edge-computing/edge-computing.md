@@ -57,7 +57,7 @@ CDN으로 잘 알려진 Cloudflare 엣지 로케이션에서 실행되는 서버
 - [Fly.io](https://fly.io/docs/)
 
 
-### 참고
+### 출처
 
 - [위키백과 에지 컴퓨팅](https://ko.wikipedia.org/wiki/%EC%97%90%EC%A7%80_%EC%BB%B4%ED%93%A8%ED%8C%85#cite_note-ED_CP_01-1)
 - [CloudFront Functions: 20% faster than Cloudflare Workers, 230% faster than Lambda@Edge](https://medium.com/@pauly4it/cloudfront-functions-20-faster-than-cloudflare-workers-230-faster-than-lambda-edge-c65c26221296)
