@@ -20,7 +20,7 @@
 
 ## CloudFront Functions & AWS Lambda@Edge
 
-AWS에서 서버리스 엣지 컴퓨팅 서비스로 AWS Lambda에 제약 사항이 추가되는 대신 사용자 가까운 위치에서 서빙되기에 비교적 빠른 응답을 가능케 함
+AWS 서버리스 엣지 컴퓨팅 서비스로 AWS Lambda에 제약 사항이 추가되는 대신 사용자 가까운 위치에서 서빙되기에 비교적 빠른 응답을 가능케 함
 
 ![cloudfront-functions-where](cloudfront-functions-where.png)
 
