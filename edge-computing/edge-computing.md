@@ -54,6 +54,7 @@ CDN으로 잘 알려진 Cloudflare 엣지 로케이션에서 실행되는 서버
 ## 기타 서비스
 
 - [Fastly Compute@Edge](https://www.fastly.com/products/edge-compute)
+  - GraphQL CDN 서비스인 Stellate가 Fastly에서 [서비스 중](https://stellate.co/docs/platform/edge-locations)
 - [Fly.io](https://fly.io/docs/)
 
 
